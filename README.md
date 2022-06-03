@@ -27,7 +27,14 @@ all operation done by firebase.
 
 
 ## Demo Apk
-![App Screenshot](https://drive.google.com/file/d/1Tt3yBm4etuZGqMd3aCyf_YVhBSxRfkgD/view?usp=sharing)
+https://drive.google.com/file/d/1Tt3yBm4etuZGqMd3aCyf_YVhBSxRfkgD/view?usp=sharing
+
+## Features
+
+- News read
+- News wrie
+- Favourite option
+- search option
 
 
 
