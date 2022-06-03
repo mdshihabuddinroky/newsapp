@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994557648197",
+    "project_id": "asilation-6f2dc",
+    "storage_bucket": "asilation-6f2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994557648197:android:40a6402f6c18254d2c322c",
+        "android_client_info": {
+          "package_name": "com.asilation.qatar.asilation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994557648197-odmk03fcmg7el1r2e4ap3gbdqmf3opbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCKI_f7Lbkjxntw-C8g9RMQrmf2ei1U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994557648197-odmk03fcmg7el1r2e4ap3gbdqmf3opbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
