@@ -5,6 +5,20 @@ Asilation is a news app with firebase backend.
 that was super fast. news read, write option, favourite,search option. 
 all operation done by firebase.
 
+## Features
+
+- News read
+- News wrie
+- Favourite option
+- search option
+
+
+
+## Tech Stack
+
+**Client:** Flutter
+
+**Server:** Firebase
 
 ## Authors
 
@@ -29,18 +43,5 @@ all operation done by firebase.
 ## Demo Apk
 https://drive.google.com/file/d/1Tt3yBm4etuZGqMd3aCyf_YVhBSxRfkgD/view?usp=sharing
 
-## Features
 
-- News read
-- News wrie
-- Favourite option
-- search option
-
-
-
-## Tech Stack
-
-**Client:** Flutter
-
-**Server:** Firebase
 
